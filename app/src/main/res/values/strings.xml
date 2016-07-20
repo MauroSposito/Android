@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Choose Your Market</string>
+    <string name="hello">Hello World, DashBoardActivity!</string>
+    <string name="home">Escolha sua opção</string>
+    <string name="basico">Itens Basicos</string>
+    <string name="sobre">Sobre</string>
+    <string name="addprecos">Coletar</string>
+    <string name="promocao">Promoções</string>
+    <string name="rodape">Oportunidade. Confira todos os preços</string>
+</resources>
